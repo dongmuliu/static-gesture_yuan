@@ -1,0 +1,1 @@
+# static gesture_yuan
